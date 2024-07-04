@@ -8,11 +8,10 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 0;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -75,7 +74,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 7% auto;
 }
 
 .game-over {
