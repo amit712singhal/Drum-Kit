@@ -26,3 +26,7 @@ To use the Drum Kit, simply checkout the deployed website under "About" section.
 ## Credits
 
 This project was created as part of a [Web-Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy. Credits go to Dr. Angela Yu for providing guidance and resources.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for more information.
