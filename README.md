@@ -26,4 +26,3 @@ This project was created as part of a [Web Development Course](https://www.udemy
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
-
